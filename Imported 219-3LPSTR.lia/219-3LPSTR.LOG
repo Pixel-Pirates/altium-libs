@@ -1,0 +1,36 @@
+PCAD Importer Log
+Project : 219-3LPSTR.LibPkg
+
+Section : C:\Users\Raymond Bernardo\Downloads\219-3LPSTR.lia
+    Section : PCB Library - 219-3LPSTR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 219-3LPSTR On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 231
+            Warning - 1 : Skipping Token 1 On Line 234
+            Warning - 1 : Skipping Token 1 On Line 240
+            Warning - 1 : Skipping Token 1 On Line 244
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*SW_219-3LPSTR][Primary] associated with PCAD Component [219-3LPSTR] has been renamed to PCB FootPrint [3Switch*SW_219-3LPSTR3W219-3LPSTR(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 219-3LPSTR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token 1 On Line 234
+            Warning - 1 : Skipping Token 1 On Line 240
+            Warning - 1 : Skipping Token 1 On Line 244
+        EndSection
+
+        Section : Generating SCH Library - 219-3LPSTR.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*SW_219-3LPSTR][Primary] associated with PCAD Component [219-3LPSTR] has been renamed to PCB FootPrint [3Switch*SW_219-3LPSTR3W219-3LPSTR(Primary)].
+        EndSection
+    EndSection
+EndSection
